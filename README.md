@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgus7113@gmail.com)](mailto:wkdgus7113@gmail.com)
 
 ### Hello, I'm Huey-J! 
-- 🔭 I’m currently working as a back-end developer.
-- 🌱 I’m currently learning **Spring**, **AWS**.
+- 🔭 I’m currently working as a **backend developer**.
+- 🌱 I’m currently learning **Spring**, **Django**, **AWS**.
 
 <br>
 
