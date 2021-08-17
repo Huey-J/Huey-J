@@ -2,7 +2,7 @@
 ## Hi There 👋  
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgus7113@gmail.com)](mailto:wkdgus7113@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238A8A8A&title_bg=%23555555&icon=darkreader.svg&icon_color=%23EBEBEB&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520huey-J&count_bg=%23B2B2B2&title_bg=%23555555&icon=darkreader.svg&icon_color=%23EFEFEF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### Hello, I'm Huey-J! 
 - 🔭 I’m currently working as a **backend developer**.
