@@ -6,10 +6,9 @@
 
 ### Hello, I'm Huey-J! 
 - 🔭 I’m currently working as a **backend developer**.
-- 🌱 I’m currently learning **Spring**, **Django**, **AWS**.
+- 🌱 I’m currently learning **Spring**, **Django**, **AWS**, **React**.
 
 <br>
- 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
