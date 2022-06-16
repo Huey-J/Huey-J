@@ -1,4 +1,6 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=Huey-J&fontSize=90&animation=twinkling" />
+
 ## Hi There <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgus7113@gmail.com)](mailto:wkdgus7113@gmail.com)
