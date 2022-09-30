@@ -9,7 +9,7 @@
 ### Hello, I'm Huey-J! 
 
 - 🔭 I’m currently working as a **backend developer**.
-- 🌱 I’m currently learning **Spring**, **Django**, **AWS**, **React**.
+- 🌱 I’m currently learning **Spring**, **Django**, **AWS**, **Docker & k8s**
 
 <br>
 
