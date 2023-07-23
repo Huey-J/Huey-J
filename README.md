@@ -1,7 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=Huey-J&fontSize=90&animation=twinkling" />
+# 장현희
 
-## Hi There <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
+![Spring Boot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=Spring&logoColor=white)
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=round-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgus7113@gmail.com)](mailto:wkdgus7113@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520huey-J&count_bg=%23B2B2B2&title_bg=%23555555&icon=darkreader.svg&icon_color=%23EFEFEF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -9,18 +11,14 @@
 ### Hello, I'm Huey-J! 
 
 - 🔭 I’m currently working as a **backend developer**.
-- 🌱 I’m currently learning **Spring**, **Django**, **AWS**, **Docker & k8s**
+- 🌱 I’m currently learning **Spring**, **AWS**
 
 <br>
 
 ## Github Stats  
 
-<table><tr><td valign="top" width="50%">
+<div>
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=huey-j)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Huey-J&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huey-J&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+</div>
