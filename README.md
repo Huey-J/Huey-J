@@ -20,5 +20,6 @@
 <div>
   
   ![github stats](https://github-readme-stats.vercel.app/api?username=huey-j)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huey-j&hide=python)](https://github.com/huey-j/github-readme-stats)
 
 </div>
