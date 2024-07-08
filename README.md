@@ -13,6 +13,8 @@
 - 🔭 I’m currently working as a **backend developer**.
 - 🌱 I’m currently learning **Spring**, **AWS**
 
+[RESUME](https://www.figma.com/design/wV739v4d2NIxGgQxsTGngb/%EC%9D%B4%EB%A0%A5%EC%84%9C-%EA%B3%B5%EA%B0%9C%EC%9A%A9?node-id=0-1&t=QPS2f85oN59UFj1p-1)
+
 <br>
 
 ## Github Stats  
