@@ -15,9 +15,19 @@
 
 <br>
 
+<div align = "center">  
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Huey-J"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
 ## Github Stats  
 
-<div>
+<div align = "center">  
   
   ![github stats](https://github-readme-stats.vercel.app/api?username=huey-j)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huey-j&layout=compact&exclude_repo=Sasohan.com,django_practice)
